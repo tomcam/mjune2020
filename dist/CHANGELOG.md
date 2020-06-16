@@ -2,5 +2,5 @@
 
 ## Changelog
 
-87d79f8 Initial commit
+ef91d38 v1.1.4
 
