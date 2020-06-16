@@ -18,9 +18,12 @@ builds:
   goarch:
   - amd64
   - "386"
+  - windows
   goarm:
   - "6"
   targets:
+  - windows_386
+  - windows_amd64
   - linux_amd64
   - linux_386
   - darwin_amd64
