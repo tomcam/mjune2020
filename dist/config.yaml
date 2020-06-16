@@ -8,14 +8,13 @@ scoop:
   name: m
   commit_author:
     name: goreleaserbot
-    email: tomcampbell@gmail.com 
+    email: goreleaser@carlosbecker.com
   commit_msg_template: Scoop update for {{ .ProjectName }} version {{ .Tag }}
 builds:
 - id: m
   goos:
   - linux
   - darwin
-  - windows
   goarch:
   - amd64
   - "386"

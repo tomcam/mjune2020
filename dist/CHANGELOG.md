@@ -2,5 +2,5 @@
 
 ## Changelog
 
-78fc42e v1.1.5
+d7c4c4f v1.1.6
 
