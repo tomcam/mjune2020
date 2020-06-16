@@ -2,5 +2,5 @@
 
 ## Changelog
 
-d7c4c4f v1.1.6
+5822177 v1.1.7 - Finally add windows support?
 
