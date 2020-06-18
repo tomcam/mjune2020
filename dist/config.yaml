@@ -4,6 +4,8 @@ release:
     owner: tomcam
     name: m
   name_template: '{{.Tag}}'
+  extra_files:
+  - glob: ./mb/**
 scoop:
   name: m
   commit_author:
